@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Step Form (React)
 
 A modern and responsive Multi-Step Form built with React, featuring step validation, smooth animations, a visual progress bar, and clean component architecture. 
@@ -6,7 +5,7 @@ Includes WCAG-friendly accessibility features, mobile optimization, and a polish
 ---
 
 ## 🚀 Live Demo
-https://multi-step-form.vercel.app
+https://multi-step-form-eight-tan.vercel.app
 
 ---
 
@@ -51,7 +50,7 @@ https://multi-step-form.vercel.app
 
 ---
 ## 📂 Folder Structure
-
+```text
 multi-step-form/
 ├── public/
 │   ├── index.html
@@ -83,6 +82,7 @@ multi-step-form/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ---
 
@@ -120,7 +120,3 @@ Contributions, issues, and suggestions are welcome!
 📄 License
 
 This project is open-source and available under the MIT License.
-=======
-# multi-step-form
-A modern multi-step React form with validation, animations, progress bar, and full responsive design.
->>>>>>> 3ec5e18a52db73ac95071278d093062b4b80c9e9
