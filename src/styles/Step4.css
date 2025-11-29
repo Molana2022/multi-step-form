@@ -1,0 +1,39 @@
+.step4-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.step4-title {
+  font-size: 26px;
+  font-weight: bold;
+  color: #10b981;
+}
+
+.step4-subtitle {
+  font-size: 18px;
+  color: #374151;
+}
+
+.step4-summary {
+  background: #f3f4f6;
+  border: 1px solid #d1d5db;
+  padding: 15px;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.restart-btn {
+  background: #3b82f6;
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.restart-btn:hover {
+  background: #2563eb;
+}
